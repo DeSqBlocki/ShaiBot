@@ -1,0 +1,29 @@
+module.exports = {
+    slash: true,
+    description: '',
+    category: '',
+    options: [
+        {
+            name: 'victim',
+            description: 'pick anyone >:D',
+            required: true,
+            type: 9,
+            options: [
+                {
+                    name: 'type',
+                    description: 'what kind of duty would you like?',
+                    required: false,
+                    type: 3, //String
+                    choices: [
+                        { "name": 'choice', "value": "value" },
+                    ],
+                    autocomplete: true
+                },
+            ],
+
+        },
+    ],
+    callback: async ({ interaction }) => {
+
+    }
+}

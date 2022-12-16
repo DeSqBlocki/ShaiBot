@@ -1,0 +1,16 @@
+[
+    {"name": "Basic Training: Enemy Parties", "level": 10, "expansion": "ARR"},
+    {"name": "Under the Armor", "level": 10, "expansion": "ARR"},
+    {"name": "Basic Training: Enemy Strongholds", "level": 15, "expansion": "ARR"},
+    {"name": "Hero on the Half Shell", "level": 15, "expansion": "ARR"},
+    {"name": "Pulling Poison Posies", "level": 20, "expansion": "ARR"},
+    {"name": "Stinging Back", "level": 20, "expansion": "ARR"},
+    {"name": "All's Well that Ends in the Well", "level": 25, "expansion": "ARR"},
+    {"name": "Flicking Sticks and Taking Names", "level": 25, "expansion": "ARR"},
+    {"name": "More than a Feeler", "level": 30, "expansion": "ARR"},
+    {"name": "Annoy the Void", "level": 30, "expansion": "ARR"},
+    {"name": "Shadow and Claw", "level": 35, "expansion": "ARR"},
+    {"name": "Long Live the Queen", "level": 35, "expansion": "ARR"},
+    {"name": "Ward Up", "level": 40, "expansion": "ARR"},
+    {"name": "Solemn Trinity", "level": 40, "expansion": "ARR"}
+]

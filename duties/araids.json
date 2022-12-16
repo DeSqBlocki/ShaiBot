@@ -1,0 +1,15 @@
+[
+    {"name": "The Labyrinth of the Ancients", "level": 50, "expansion": "ARR"},
+    {"name": "Syrcus Tower", "level": 50, "expansion": "ARR"},
+    {"name": "The World of Darkness", "level": 50, "expansion": "ARR"},
+    {"name": "The Void Ark", "level": 60, "expansion": "HW"},
+    {"name": "The Weeping City of Mhach", "level": 60, "expansion": "HW"},
+    {"name": "Dun Scaith", "level": 60, "expansion": "HW"},
+    {"name": "The Royal City of Rabanastre", "level": 70, "expansion": "SB"},
+    {"name": "The Ridorana Lighthouse", "level": 70, "expansion": "SB"},
+    {"name": "The Orbonne Monastery", "level": 70, "expansion": "SB"},
+    {"name": "The Copied Factory", "level": 80, "expansion": "ShB"},
+    {"name": "The Puppets' Bunker", "level": 80, "expansion": "ShB"},
+    {"name": "The Tower at Paradigm's Breach", "level": 80, "expansion": "ShB"},
+    {"name": "Aglaia", "level": 90, "expansion": "EW"}
+]
