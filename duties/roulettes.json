@@ -1,0 +1,13 @@
+[
+    {"name": "Expert", "level": 90},
+    {"name": "Level 90 Dungeons", "level": 90},
+    {"name": "Level 50/60/70/80", "level": 50},
+    {"name": "Leveling", "level": 16},
+    {"name": "Trials", "level": 50},
+    {"name": "Main Scenario", "level": 50},
+    {"name": "Guildhests", "level": 10},
+    {"name": "Alliance Raid", "level": 50},
+    {"name": "Normal Raid", "level": 60},
+    {"name": "Mentor", "level": 90},
+    {"name": "Frontline", "level": 30}
+]
